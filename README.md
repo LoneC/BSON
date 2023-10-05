@@ -37,7 +37,7 @@ dollars = 3
 coins = 50
 ```
 ## Using BSON
-```
+```c
 #include <stdio.h> /* For printing */
 #include <bson.h>  /* All you need */
 ...
