@@ -1,4 +1,4 @@
-CC = GCC
+CC = gcc
 COMPILE = -fPIC -O3 -Wall -Wpedantic -Werror -Wno-unused
 LINKER = -fPIC -Wall
 TARGET = libbson.so
